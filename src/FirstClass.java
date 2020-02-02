@@ -7,5 +7,12 @@ public class FirstClass {
           System.out.println("Life is beatiful");
         System.out.println("Hello world!");
 
+        System.out.println("Life is beatiful");
+        System.out.println("Hello world!");
+        System.out.println("Life is beatiful");
+        System.out.println("Hello world!");
+        System.out.println("Life is beatiful");
+        System.out.println("Hello world!");
+
     }
 }
